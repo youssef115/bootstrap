@@ -1,0 +1,13 @@
+git init 
+
+to set the changes 
+git add -add
+
+to commit all  the changes 
+git commit -m 
+
+to save the project in the cloud like github git lab bitbucket 
+git push 
+
+give the path of the files that you want to add it or ignore it 
+gitignore
